@@ -1,0 +1,18 @@
+key,value
+student_number,i1234567
+definition,"one line: your definition of 'well-diversified'"
+parameters,"parameter value(s) of your recommended portfolio"
+base_return,
+base_volatility,
+base_max_weight,
+base_n_eff,
+base_n_1pct,
+rec_return,
+rec_volatility,
+rec_max_weight,
+rec_n_eff,
+rec_n_1pct,
+oos_base_return,
+oos_base_volatility,
+oos_rec_return,
+oos_rec_volatility,
